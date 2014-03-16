@@ -1,0 +1,14 @@
+{
+  "name": "event-model",
+  "description": "Model for events",
+  "version": "0.0.1",
+  "keywords": ["event", "event model", "cargosafe", "model"],
+  "dependencies": {
+    "each": "component/each",
+    "model": "component/model",
+    "timestamps": "component/model-timestamps",
+    "validators": "modella/validators",
+    "model-defaults": "segmentio/model-defaults"
+  },
+  "license": "MIT"
+}
