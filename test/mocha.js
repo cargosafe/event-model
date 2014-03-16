@@ -1,0 +1,1 @@
+../components/visionmedia-mocha/mocha.js

@@ -1,0 +1,21 @@
+{
+  "name": "event-model",
+  "repo": "cargosafe/event-model",
+  "description": "Model for events",
+  "version": "0.0.1",
+  "keywords": ["event", "event model", "cargosafe", "model"],
+  "dependencies": {
+    "component/each": "*",
+    "component/model": "*",
+    "component/model-timestamps": "*",
+    "modella/validators": "*",
+    "segmentio/model-defaults": "*"
+  },
+  "development": {
+    "component/assert": "*",
+    "visionmedia/mocha": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"]
+}
